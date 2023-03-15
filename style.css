@@ -1,0 +1,111 @@
+.header {
+    width: 100%;
+    height: 100px;
+    background: rgb(47, 47, 99);
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 100px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.logo {
+    width: 50%;
+    padding-top: 50px;
+    float: left;
+}
+
+.login {
+    width: 50%;
+    float:right;
+}
+
+.logo-text {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 150px;
+}
+.login-elements{
+    color:white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.login-controls{
+    padding-top:23px;
+    padding-left: 139px;
+}
+.login-elements1{
+    color:white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    text-decoration:none;
+}
+.button1 {
+    color: white;
+    background-color: #1877f2;
+    font-size: 14px;
+    border: none;
+    cursor:pointer;
+}
+.button1:hover{
+    background:green;
+}
+.main-body{
+    width:100%;
+}
+.left-section{
+    width:50%;
+    float:left;
+    padding-left:125px;
+    padding-top:29px;
+}
+.right-section{
+    width:30%;
+    float:left;
+    padding-top: 18px;
+}
+.row1{
+    height:30px;
+    border-radius: 3px;
+    border-color:white;
+}
+.row2{
+    height:30px;
+    width:400px;
+    margin-top:15px;
+    border-radius: 3px;
+    border-color:white;
+}
+.dob{
+    color:grey;
+}
+.wrapper {
+    display: inline-block;
+}
+.birthday{
+    font-size: 20px;
+    margin-right: 8px;
+    margin-top: 0px;
+    border-radius:2px;
+}
+.learnmore{
+    font-size:13px;
+}
+.button2{
+    color:white;
+    background-color:#00a400;
+    width:210px;
+    height:40px;
+    padding:10px;
+    font-size:25px;
+    border-color: #00a400;
+    border-radius: 6px;
+}
+
+
+    
